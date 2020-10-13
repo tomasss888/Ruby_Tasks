@@ -11,8 +11,8 @@ answer = 1
 temp = integer_start
 
 while temp < integer_end
-  answer *= temp if temp.even?
-  temp += 1
+  answer *= temp if temp.even? # if number is even multiply
+  temp += 1 # moves to another number
 end
 
 puts "All whole numbers multiplied in a range: #{answer}"
