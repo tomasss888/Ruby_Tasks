@@ -8,3 +8,7 @@
 ## 3 task
 - Interval.rb made into Object-Oriented and fixed all mistakes with Rubocop
 - Double_digits.rb made into Object-Oriented and fixed all mistakes with Rubocop
+
+## 4 task
+- I created Unit Test for Interval program from task 3.
+
